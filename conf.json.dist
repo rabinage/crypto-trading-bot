@@ -32,6 +32,10 @@
         "ftx": {
             "key": null,
             "secret": null
+        },
+        "poloniex": {
+            "key": null,
+            "secret": null
         }
     },
     "notify": {
